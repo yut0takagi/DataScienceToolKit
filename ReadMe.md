@@ -1,0 +1,2 @@
+# DataScienceToolKit
+データサイエンス系学問及び事業に従事する人を対象としたPythonツールです。
